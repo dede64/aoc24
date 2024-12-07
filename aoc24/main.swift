@@ -7,4 +7,4 @@
 
 import Foundation
 
-Day5Hard().solve()
+Day6Hard().solve()
