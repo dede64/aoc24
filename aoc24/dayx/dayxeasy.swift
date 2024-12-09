@@ -6,10 +6,10 @@ class DayXEasy {
     }
     
     let easyInput: String = """
-        
+    
     """
     
     let input: String = """
-
+    
     """
 }
